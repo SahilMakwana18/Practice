@@ -15,7 +15,7 @@ const EditFriend = () => {
                     <input type="text" required={true}/>
                 </div>
                 <div className='edit-friend__control'>
-                    <label>Date</label>
+                    <label>Date of Birth</label>
                     <input type="date" required={true}/>
                 </div>
             </div>
